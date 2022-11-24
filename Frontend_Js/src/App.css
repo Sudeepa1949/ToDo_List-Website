@@ -1,0 +1,121 @@
+tr.completed {
+  background-color:#87db77;
+  text-decoration: line-through;
+}
+form{
+  padding-left: 400px;
+  padding-top: 60px;
+  padding-right: 350px;
+}
+form div button{
+  padding-right: 20px;
+
+}
+h5{
+  padding-top:50px;
+}
+.form-control{
+  width: 75%;;
+}
+form h1{
+  padding-left: 95px;
+}
+
+.alert-danger{
+  width: 35%;
+  right: 250px;
+  left: 380px;
+  top: 20px;
+  text-align: center;
+}
+.alert-success{
+  width: 35%;
+  right: 250px;
+  left: 380px;
+  top: 20px;
+  text-align: center;
+}
+div button{
+  width: 150px;
+  height: 40px;
+  background-color: #398f4c;
+  border-radius: 2cm;
+}
+h1{
+  padding-top: 20px;
+}
+thead{
+  background-color: #e96629;
+}
+div table button{
+  background-color: #f3f7f3;
+}
+div h1{
+  font-size: .8cm;
+}
+div p{
+  padding-right: 40px;
+  font-style: oblique;
+}
+a{
+  color: rgb(247, 251, 255);
+  text-decoration: none;
+}
+tbody{
+  background-color: rgb(184, 206, 200);
+}
+a:hover {
+   color: rgb(0, 0, 0);
+   background-color: white;
+   padding: 0.01em;
+   text-decoration-thickness: 20%;
+   
+}
+
+.btnX{ 
+  /* padding: auto; */
+  border-radius:50%;  
+   border : 3px solid red; 
+  width: 40px;
+  height: 40px;
+  color: red;
+   /* position: relative; */
+  cursor: pointer; 
+}
+
+.btnX:hover{
+   background-color:3px solid rgb(0, 0, 0);
+ }
+ 
+ .btnM{
+  background-color: aliceblue;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+ }
+ .btnM:active{
+    background-color: green;
+    
+ }
+ .topBtn {
+  /* display: none; */
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+.topBtn:hover {
+  background-color: rgb(11, 4, 4);
+}
+img{
+  width: 1355px;
+  height: 640px;
+}
